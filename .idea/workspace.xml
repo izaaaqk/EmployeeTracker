@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/Homework.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework2" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework3" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework4" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4" afterDir="false" />
@@ -24,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vpxnbkanGff1FpzfN5GSLwbfgr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627272999829</updated>
-      <workItem from="1627273001003" duration="2741000" />
+      <workItem from="1627273001003" duration="3055000" />
     </task>
     <servers />
   </component>
